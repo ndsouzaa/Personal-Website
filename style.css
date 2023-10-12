@@ -161,8 +161,11 @@ padding-top:20px;
   
 }
 
+#port-header{
+  padding-top:100px;
+}
 
-.prokects img{
+.projects img{
   max-width: 100%;
   height:auto;
 }
